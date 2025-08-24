@@ -3,6 +3,6 @@ int main()
 {
 int a=12,b=24,c;
 c=a+b;
-printf("sum of a&b is:%d",c);
+printf("sum of a&b is:%d \n",c);
 return 0;
 }
